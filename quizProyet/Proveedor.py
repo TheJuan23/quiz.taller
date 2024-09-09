@@ -1,2 +1,5 @@
 print ("yuri")
 print ("natalia")
+print ("andres")
+print ("jose fernando")
+print ("dayan camila")
